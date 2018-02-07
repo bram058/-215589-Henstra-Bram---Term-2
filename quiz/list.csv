@@ -1,0 +1,7 @@
+ID;Question;ID_no;ID_yes;ID_dunno
+1;"A question";2;3;4
+2;"B question";1;5;6
+3;"C question";3;2;1
+4;"D question";6;4;5
+5;"E question";2;4;3
+6;"F question";1;-7;1
